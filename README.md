@@ -1,5 +1,4 @@
 # Opacity-on-TLPN
-====
 Intro
 ----
 This is a supplementary instruction for the paper "Symbolic Observer of Timed Labeled Petri Nets With Application to Current-state Opacity".
