@@ -1,7 +1,7 @@
 # State Estimation in TLPN
 Intro
 ----
-This is a supplementary instruction for the paper "Symbolic State Estimation in Bounded Timed Labeled Petri".
+This is a supplementary instruction for the paper "Symbolic State Estimation in Bounded Timed Labeled Petri Nets".
 
 The file named "Preliminary of Petri Nets" shows some basic notations about Petri nets.
 
